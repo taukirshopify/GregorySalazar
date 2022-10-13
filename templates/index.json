@@ -9,7 +9,7 @@
             "h1": "LOUD & PROUD",
             "p": "We Are Children of Immigrants",
             "shop": "Shop Now",
-            "link": "shopify:\/\/collections\/clothing",
+            "link": "shopify:\/\/collections\/clothing-hats",
             "img": "shopify:\/\/shop_images\/bannarhuman.jpg",
             "imgw": "shopify:\/\/shop_images\/Heavy_Waves.png",
             "img1": "shopify:\/\/shop_images\/best-seller-flower-template.png",
@@ -92,8 +92,8 @@
     "1661379423c25722ee": {
       "type": "custometshirt",
       "settings": {
-        "h2": "T-SHIRTS",
-        "product": "clothing"
+        "h2": "CLOTHING & HATS",
+        "product": "clothing-hats"
       }
     },
     "16615151866e0eb289": {
