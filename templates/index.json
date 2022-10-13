@@ -3,6 +3,23 @@
     "1661379305202ed988": {
       "type": "customebannar",
       "blocks": {
+        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
+          "type": "fullwidth",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/2022-HMU-Shoot-156-text_00742035-a171-4921-a293-6960c40ec51f.jpg",
+            "height": "684",
+            "vertecal": "center",
+            "Horizontal": "bottom",
+            "h2": "",
+            "h2-c": "#ebebeb",
+            "p": "",
+            "p-c": "#d77628",
+            "shop": "Shop Now",
+            "shop-url": "shopify:\/\/collections\/clothing-hats",
+            "btn-c": "#000000",
+            "btn-b": "#b5b35c"
+          }
+        },
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
           "type": "twoside",
           "settings": {
@@ -15,29 +32,11 @@
             "img1": "shopify:\/\/shop_images\/best-seller-flower-template.png",
             "img2": "shopify:\/\/shop_images\/earch-logo.png"
           }
-        },
-        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
-          "type": "fullwidth",
-          "disabled": true,
-          "settings": {
-            "img": "shopify:\/\/shop_images\/full-width-bannar.jpg",
-            "height": "684",
-            "vertecal": "center",
-            "Horizontal": "center",
-            "h2": "Express Yourself",
-            "h2-c": "#b5b35c",
-            "p": "Asian-food inspired pins",
-            "p-c": "#b5b35c",
-            "shop": "Shop Now",
-            "shop-url": "shopify:\/\/products\/foodie-enamel-pin",
-            "btn-c": "#000000",
-            "btn-b": "#b5b35c"
-          }
         }
       },
       "block_order": [
-        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
-        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c"
+        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c",
+        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220"
       ],
       "settings": {
         "autoplay": true,
@@ -89,13 +88,6 @@
       "settings": {
       }
     },
-    "1661379423c25722ee": {
-      "type": "custometshirt",
-      "settings": {
-        "h2": "CLOTHING & HATS",
-        "product": "clothing-hats"
-      }
-    },
     "16615151866e0eb289": {
       "type": "customejewwlry",
       "settings": {
@@ -103,6 +95,13 @@
         "color": "#bd6059",
         "arroa": "Orange",
         "product": "jewelry"
+      }
+    },
+    "1661379423c25722ee": {
+      "type": "custometshirt",
+      "settings": {
+        "h2": "CLOTHING & HATS",
+        "product": "clothing-hats"
       }
     },
     "1661379383bd156f7a": {
@@ -119,8 +118,8 @@
     "1661379335a2efa1ce",
     "1661379363c7f59ed6",
     "166151523068b4b8aa",
-    "1661379423c25722ee",
     "16615151866e0eb289",
+    "1661379423c25722ee",
     "1661379383bd156f7a"
   ]
 }
