@@ -99,20 +99,32 @@
       "settings": {
       }
     },
-    "16615151866e0eb289": {
-      "type": "customejewwlry",
-      "settings": {
-        "h2": "JEWELRY",
-        "color": "#bd6059",
-        "arroa": "Orange",
-        "product": "jewelry"
-      }
-    },
     "1661379423c25722ee": {
       "type": "custometshirt",
       "settings": {
         "h2": "CLOTHING & HATS",
         "product": "clothing-hats"
+      }
+    },
+    "16615151866e0eb289": {
+      "type": "customejewwlry",
+      "settings": {
+        "h2": "HAIR CLAWS",
+        "color": "#bd6059",
+        "arroa": "Orange",
+        "product": "hair-claws"
+      }
+    },
+    "2658899b-6ee6-4057-b161-0dd752a60aff": {
+      "type": "collection",
+      "disabled": true,
+      "settings": {
+        "title": "HAIR CLAWS",
+        "collection": "hair-claws",
+        "grid": 5,
+        "rows": 1,
+        "show_vendor": false,
+        "show_view_all": false
       }
     },
     "1661379383bd156f7a": {
@@ -129,8 +141,9 @@
     "1661379335a2efa1ce",
     "1661379363c7f59ed6",
     "166151523068b4b8aa",
-    "16615151866e0eb289",
     "1661379423c25722ee",
+    "16615151866e0eb289",
+    "2658899b-6ee6-4057-b161-0dd752a60aff",
     "1661379383bd156f7a"
   ]
 }
