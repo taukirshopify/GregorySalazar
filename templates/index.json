@@ -93,27 +93,27 @@
       "settings": {
       }
     },
+    "1661379363c7f59ed6": {
+      "type": "customenewarrival",
+      "settings": {
+        "h2": "HAIR CLAWS",
+        "product": "hair-claws"
+      }
+    },
     "16615151866e0eb289": {
       "type": "customejewwlry",
       "settings": {
-        "h2": "HAIR CLAWS",
+        "h2": "JEWELRY",
         "color": "#bd6059",
         "arroa": "Orange",
-        "product": "hair-claws"
+        "product": "jewelry"
       }
     },
     "1661379423c25722ee": {
       "type": "custometshirt",
       "settings": {
-        "h2": "CLOTHING & HATS",
-        "product": "clothing-hats"
-      }
-    },
-    "1661379363c7f59ed6": {
-      "type": "customenewarrival",
-      "settings": {
-        "h2": "JEWELRY",
-        "product": "jewelry"
+        "h2": "SALE",
+        "product": "sale"
       }
     },
     "2658899b-6ee6-4057-b161-0dd752a60aff": {
@@ -141,9 +141,9 @@
     "1661297293c8d8f0f3",
     "1661379335a2efa1ce",
     "166151523068b4b8aa",
+    "1661379363c7f59ed6",
     "16615151866e0eb289",
     "1661379423c25722ee",
-    "1661379363c7f59ed6",
     "2658899b-6ee6-4057-b161-0dd752a60aff",
     "1661379383bd156f7a"
   ]
