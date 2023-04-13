@@ -18,6 +18,7 @@
         },
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
           "type": "fullwidth",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/hands-restore-blog_homepage-banner_86782bd5-fa43-4f6d-98d5-6cd880e0de0e.jpg",
             "height": "684",
