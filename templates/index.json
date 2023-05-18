@@ -18,18 +18,17 @@
         },
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
           "type": "fullwidth",
-          "disabled": true,
           "settings": {
-            "img": "shopify:\/\/shop_images\/hands-restore-blog_homepage-banner_86782bd5-fa43-4f6d-98d5-6cd880e0de0e.jpg",
+            "img": "shopify:\/\/shop_images\/IMG_7649_2.jpg",
             "height": "684",
             "vertecal": "center",
             "Horizontal": "bottom",
-            "h2": "",
+            "h2": "Meet Dr. Wang",
             "h2-c": "#ebebeb",
             "p": "",
             "p-c": "#d77628",
-            "shop": "Learn More",
-            "shop-url": "shopify:\/\/blogs\/news\/making-freedom-real-for-survivors-of-trafficking",
+            "shop": "Read more",
+            "shop-url": "shopify:\/\/blogs\/news\/reclaiming-mental-health-as-an-asian-american",
             "btn-c": "#000000",
             "btn-b": "#b5b35c"
           }
