@@ -3,19 +3,6 @@
     "1661379305202ed988": {
       "type": "customebannar",
       "blocks": {
-        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
-          "type": "twoside",
-          "settings": {
-            "h1": "LOUD & PROUD",
-            "p": "We Are Children of Immigrants",
-            "shop": "Shop Now",
-            "link": "shopify:\/\/collections\/clothing-hats",
-            "img": "shopify:\/\/shop_images\/hoome-sweatshirt.jpg",
-            "imgw": "shopify:\/\/shop_images\/Heavy_Waves.png",
-            "img1": "shopify:\/\/shop_images\/best-seller-flower-template.png",
-            "img2": "shopify:\/\/shop_images\/earch-logo.png"
-          }
-        },
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
           "type": "fullwidth",
           "settings": {
@@ -33,6 +20,19 @@
             "btn-b": "#b5b35c"
           }
         },
+        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
+          "type": "twoside",
+          "settings": {
+            "h1": "LOUD & PROUD",
+            "p": "We Are Children of Immigrants",
+            "shop": "Shop Now",
+            "link": "shopify:\/\/collections\/clothing-hats",
+            "img": "shopify:\/\/shop_images\/hoome-sweatshirt.jpg",
+            "imgw": "shopify:\/\/shop_images\/Heavy_Waves.png",
+            "img1": "shopify:\/\/shop_images\/best-seller-flower-template.png",
+            "img2": "shopify:\/\/shop_images\/earch-logo.png"
+          }
+        },
         "d2522675-b0c7-4fc1-8f2b-12db31b5eadd": {
           "type": "twoside",
           "disabled": true,
@@ -45,8 +45,8 @@
         }
       },
       "block_order": [
-        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c",
+        "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
         "d2522675-b0c7-4fc1-8f2b-12db31b5eadd"
       ],
       "settings": {
