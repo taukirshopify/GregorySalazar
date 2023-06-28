@@ -178,15 +178,7 @@
     },
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "12589940062836651512": {
-        "type": "shopify:\/\/apps\/Restockify\/blocks\/app-embed\/f9b8be85-a2cb-4a08-bbf7-00616585fc16",
-        "disabled": true,
-        "settings": {
-        }
-      }
-    }
+    ]
   },
   "presets": {
     "Default": {
