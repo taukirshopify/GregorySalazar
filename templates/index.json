@@ -3,6 +3,16 @@
     "1661379305202ed988": {
       "type": "customebannar",
       "blocks": {
+        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd": {
+          "type": "twoside",
+          "settings": {
+            "h1": "FRUITS OF SUMMER",
+            "p": "What we're excited for this summer",
+            "shop": "Shop Now",
+            "link": "shopify:\/\/products\/fruit-claw",
+            "img": "shopify:\/\/shop_images\/fruitclaws.jpg"
+          }
+        },
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
           "type": "twoside",
           "settings": {
@@ -18,6 +28,7 @@
         },
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
           "type": "fullwidth",
+          "disabled": true,
           "settings": {
             "img": "shopify:\/\/shop_images\/IMG_7649_2.jpg",
             "height": "684",
@@ -32,22 +43,12 @@
             "btn-c": "#000000",
             "btn-b": "#b5b35c"
           }
-        },
-        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd": {
-          "type": "twoside",
-          "disabled": true,
-          "settings": {
-            "h1": "LOUD & PROUD",
-            "p": "We Are Children of Immigrats",
-            "shop": "Shop Now",
-            "link": ""
-          }
         }
       },
       "block_order": [
+        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd",
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
-        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c",
-        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd"
+        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c"
       ],
       "settings": {
         "autoplay": true,
