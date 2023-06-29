@@ -3,14 +3,21 @@
     "1661379305202ed988": {
       "type": "customebannar",
       "blocks": {
-        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd": {
-          "type": "twoside",
+        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2": {
+          "type": "fullwidth",
           "settings": {
-            "h1": "FRUITS OF SUMMER",
+            "img": "shopify:\/\/shop_images\/IMG_1051.heic",
+            "height": "600",
+            "vertecal": "center",
+            "Horizontal": "center",
+            "h2": "FRUITS OF SUMMER",
+            "h2-c": "#fff",
             "p": "What we're excited for this summer",
+            "p-c": "#ffffff",
             "shop": "Shop Now",
-            "link": "shopify:\/\/products\/fruit-claw",
-            "img": "shopify:\/\/shop_images\/fruitclaws.jpg"
+            "shop-url": "shopify:\/\/products\/fruit-claw",
+            "btn-c": "#000",
+            "btn-b": "#b5b35c"
           }
         },
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
@@ -43,12 +50,24 @@
             "btn-c": "#000000",
             "btn-b": "#b5b35c"
           }
+        },
+        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd": {
+          "type": "twoside",
+          "disabled": true,
+          "settings": {
+            "h1": "FRUITS OF SUMMER",
+            "p": "What we're excited for this summer",
+            "shop": "Shop Now",
+            "link": "shopify:\/\/products\/fruit-claw",
+            "img": "shopify:\/\/shop_images\/fruitclaws.jpg"
+          }
         }
       },
       "block_order": [
-        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd",
+        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2",
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
-        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c"
+        "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c",
+        "d2522675-b0c7-4fc1-8f2b-12db31b5eadd"
       ],
       "settings": {
         "autoplay": true,
