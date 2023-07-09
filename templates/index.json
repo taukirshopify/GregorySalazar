@@ -11,12 +11,12 @@
             "vertecal": "center",
             "Horizontal": "center",
             "h2": "FRUITS OF SUMMER",
-            "h2-c": "#fff",
+            "h2-c": "#ffffff",
             "p": "",
             "p-c": "#ffffff",
             "shop": "Shop Now",
             "shop-url": "shopify:\/\/products\/fruit-claw",
-            "btn-c": "#000",
+            "btn-c": "#000000",
             "btn-b": "#b5b35c"
           }
         },
@@ -114,6 +114,7 @@
     },
     "1661379423c25722ee": {
       "type": "custometshirt",
+      "disabled": true,
       "settings": {
         "h2": "CLOTHING & HATS",
         "product": "clothing-hats"
