@@ -63,8 +63,8 @@
     "1661634090644eeecc": {
       "type": "custometshirt",
       "settings": {
-        "h2": "T-SHIRTS",
-        "product": "headbands"
+        "h2": "{{ section.settings.product.title }}",
+        "product": "clothing-hats"
       }
     },
     "1661634110acf85023": {
