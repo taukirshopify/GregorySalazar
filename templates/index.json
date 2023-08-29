@@ -3,23 +3,6 @@
     "1661379305202ed988": {
       "type": "customebannar",
       "blocks": {
-        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2": {
-          "type": "fullwidth",
-          "settings": {
-            "img": "shopify:\/\/shop_images\/IMG_1051.heic",
-            "height": "600",
-            "vertecal": "center",
-            "Horizontal": "center",
-            "h2": "FRUITS OF SUMMER",
-            "h2-c": "#ffffff",
-            "p": "",
-            "p-c": "#ffffff",
-            "shop": "Shop Now",
-            "shop-url": "shopify:\/\/products\/fruit-claw",
-            "btn-c": "#000000",
-            "btn-b": "#b5b35c"
-          }
-        },
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220": {
           "type": "twoside",
           "settings": {
@@ -31,6 +14,23 @@
             "imgw": "shopify:\/\/shop_images\/Heavy_Waves.png",
             "img1": "shopify:\/\/shop_images\/best-seller-flower-template.png",
             "img2": "shopify:\/\/shop_images\/earch-logo.png"
+          }
+        },
+        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2": {
+          "type": "fullwidth",
+          "settings": {
+            "img": "shopify:\/\/shop_images\/2022-HMU-Shoot-153_1.jpg",
+            "height": "600",
+            "vertecal": "center",
+            "Horizontal": "bottom",
+            "h2": "",
+            "h2-c": "#ffffff",
+            "p": "",
+            "p-c": "#ffffff",
+            "shop": "Shop BUCKET HATS",
+            "shop-url": "shopify:\/\/collections\/clothing-hats",
+            "btn-c": "#000000",
+            "btn-b": "#b5b35c"
           }
         },
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c": {
@@ -64,8 +64,8 @@
         }
       },
       "block_order": [
-        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2",
         "1b54fac4-ed9e-41d9-a7d4-0a4f65720220",
+        "94ca84a9-6fe2-4da9-b0b2-63f242c48db2",
         "7bc2fd7b-7b8f-4673-ad0f-33d8ea7b894c",
         "d2522675-b0c7-4fc1-8f2b-12db31b5eadd"
       ],
